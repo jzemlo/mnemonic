@@ -1,4 +1,6 @@
 # mnemonic
 
 * `npm install`
-* `npm start`
+* `npm test`
+* `npm csr`
+* `npm sign`
